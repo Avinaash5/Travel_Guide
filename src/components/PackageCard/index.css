@@ -1,0 +1,27 @@
+.package-card {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: min-content;
+  margin: 15px;
+}
+
+.package-img {
+  height: 300px;
+  width: 550px;
+}
+
+h1 {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin: 5px 10px;
+}
+
+p {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin: 5px 10px;
+}
